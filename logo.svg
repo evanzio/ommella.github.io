@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="154.49174mm"
+   height="29.620909mm"
+   viewBox="0 0 154.49174 29.620909"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="51.404762"
+       y="111.88095"
+       width="21.166668"
+       height="9.0714283"
+       id="rect26" />
+    <rect
+       x="186.72025"
+       y="272.8988"
+       width="15.875"
+       height="21.166668"
+       id="rect20" />
+    <rect
+       x="49.892857"
+       y="112.6369"
+       width="182.18452"
+       height="148.16667"
+       id="rect12" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="301.38499"
+     inkscape:cy="507.80431"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1252"
+     inkscape:window-height="943"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-26.091888,-13.810111)">
+    <text
+       xml:space="preserve"
+       id="text10"
+       style="font-size:42.33330000000000126px;line-height:1.25;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';white-space:pre;shape-inside:url(#rect12);"
+       transform="translate(-25.702381,-106.58929)"><tspan
+         x="49.892578"
+         y="149.68958"><tspan
+           style="fill:#ffffff">Ommella</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text18"
+       style="font-size:3.43957999999999986px;line-height:1.25;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';white-space:pre;shape-inside:url(#rect20);" />
+    <text
+       xml:space="preserve"
+       id="text24"
+       style="font-size:3.43957999999999986px;line-height:1.25;font-family:'Gill Sans';-inkscape-font-specification:'Gill Sans';white-space:pre;shape-inside:url(#rect26);" />
+  </g>
+</svg>

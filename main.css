@@ -1,0 +1,29 @@
+body {
+  background-color: #FE5F64;
+  color: #ffffff;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.img {
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80vh;
+  width: 80vw;
+  background-image: url('./logo.svg');
+  background-size: 100%;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+a { color: #ffffff; text-decoration: none;}
